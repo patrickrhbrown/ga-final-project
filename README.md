@@ -1,8 +1,6 @@
 # ga-final-project
 Art as a physical object, not just a decorative object
 
-Hi, 
+Master Project - 4 May 2016
 
-This is me making a quick change to the master in order to learn how commits work.
-
-P
+- Uploaded Templates: index.html, main.css, normalize.css, main.js in plain form
